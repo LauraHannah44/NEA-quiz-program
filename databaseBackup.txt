@@ -1,0 +1,17 @@
+What is 2+7?|9|6|1|3 ~~~ What is 4*3?|12|9|4|10 ~~~ What is 18-8?|10|9|12|8 ~~~ What is 15/3?|5|3|7|10 ~~~ What is 4^2?|16|12|8|15
+What is the square root of 196?|14|13|15|16 ~~~ What is equivalent to x(x+5)?|x^2+5x|x+5x^2|x^5+2|2x+5x ~~~ What is m in y=mx+c?|Gradient|Intercept|Discriminant|Ellipsoid ~~~ What is 5!?|120|five! woo!|5?!|250 ~~~ What is the cube root of 216?|6|5|7|8
+What is the integral of 5x^4-acos(ax)?|x^5-sin(ax)|5x^3+tan(-x)|10x^2-csc(x^2)|15x^3+a^2sin(ax) ~~~ x is positive, and x^2=13x+68. Find x.|x=17|its right there!|x=13|x=34 ~~~ What is the process which uses inequalities to optimise business production?|Linear Programming|Quadratic Computing|Cubic Coding|Quartic Sequencing ~~~ What is Eulers identity e^ix equal to?|cosx+isinx|xi^expi|sini-picosx|tanx+cosi+sinx ~~~ What is V-E+F equal to?|2|78pi|14i+89|tanpi+1/e^2
+
+How do you spell "cat"?|cat|hat|shat|cot ~~~ How do you spell "run"?|run|ron|rud|runt ~~~ How do you spell "help"?|help|halp|hell|melp ~~~ How do you spell "bad"?|bad|dab|bed|bat ~~~ How do you spell "rain"?|rain|world|slug|cat ~~~ How do you spell "and"?|and|amd|ant|dan ~~~ How do you spell "bot"?|bot|bat|rob|bit ~~~ How do you spell "the"?|the|thuh|tuh|teh ~~~ How do you spell "hmmmm"?|hmmmm|hmmm|hmm|hm ~~~ How do you spell "birb"?|birb|bird|berb|snek
+How do you spell "chiaroscurist"?|chiaroscurist|chiarascurist|chiaroscurest|shiaroscurist ~~~ How do you spell "pococurante"?|pococurante|pococuramte|pocodurante|pocacurante ~~~ How do you spell "appoggiatura"?|appoggiatura|apoggiatura|appogiatura|appoggiotura ~~~ How do you spell "succedaneum"?|succedaneum|succcedaneum|succadaneum|succedanium ~~~ How do you spell "laodicean"|laodicean|laodickean|laodician|lapodicean
+How do you spell "pneumonoultramicroscopicsilicovolcanoconiosis"?|pneumonoultramicroscopicsilicovolcanoconiosis|pneumonoultramicroscopicsilicavolcanoconiosis|pneumonoultramicroscopicsilicovolcanoconioses|pneumonoultramicroscopicsilicovolcanocaniosis ~~~ How do you spell "supercalifragilisticexpialidocious"?|supercalifragilisticexpialidocious|supercalafragilisticexpialidocious|supercalifragalisticexpialidocious|supercalifragilisticexpialadocious ~~~ How do you spell "pseudopseudohypoparathyroidism"?|pseudopseudohypoparathyroidism|pseudopseudohyperparathyroidism|pseudopseudohypoparathiroidism|pseudopseudohypoparathyrodism ~~~ How do you spell "floccinaucinihilipilification"?|floccinaucinihilipilification|floccinaucinihilidilification|floccinaucinihililipification|floccinaucinihipililification ~~~ How do you spell "antidisestablishmentarianism"?|antidisestablishmentarianism|antidisistablishmentarianism|antidisestablishmentareanism|antidisestablishmenterianism
+#
+Laura44|catsIDKok ~~~ 5,0,0|5,0,1|5,0,2|5,1,0|5,1,1|5,1,2
+Bob1989|superpass ~~~ 
+admin|aaaaaaaa ~~~ 1,0,0|2,0,2|0,1,2
+WestieCrafter|sub2westie ~~~ 
+Emily232|potatoes ~~~ 
+Cezza|Aladar72 ~~~ 
+pete|peterhannah ~~~ 3,0,1
+admin2|aaaaaaaa ~~~ 0,0,0
+newuser|secretpassword ~~~ 2,0,0|4,1,1
